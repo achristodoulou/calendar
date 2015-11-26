@@ -1,0 +1,33 @@
+{
+  "name": "achristodoulou/calendar",
+  "description": "A package that provides easy access to calendar functionality.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andreas Christodoulou",
+      "email": "andreas22@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Achristodoulou\\Calendar\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Achristodoulou\\Test\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
