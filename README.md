@@ -1,5 +1,7 @@
 # Calendar
 
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Build Status][ico-travis]][link-travis]
 [![Software License][ico-license]](LICENSE.md)
 
 This package can be used for any calendar related queries. For example you can check if today is a specific date, 
@@ -100,7 +102,13 @@ If you discover any security related issues, please email :author_email instead 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+[ico-version]: https://img.shields.io/packagist/v/achristodoulou/calendar.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/achristodoulou/calendar/master.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/achristodoulou/calendar.svg?style=flat-square
 
-[link-author]: https://github.com/achristodoulou
+[link-packagist]: https://packagist.org/packages/achristodoulou/calendar
+[link-travis]: https://travis-ci.org/achristodoulou/calendar
 [link-contributors]: ../../contributors
+[link-author]: https://github.com/achristodoulou
+[link-downloads]: https://packagist.org/packages/achristodoulou/calendar
