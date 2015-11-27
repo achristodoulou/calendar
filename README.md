@@ -60,7 +60,7 @@ Output:
 ```
 Today is Thursday: yes
 Today is Assumption Day: no
-Today is Public Holiday: no
+Today is Public Holiday: no
 Now is After Working Hours: yes
 Today I am on Annual Leave: no
 Today is Annunciation Day: no
@@ -92,7 +92,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email :author_email instead of using the issue tracker.
+If you discover any security related issues, please email andreas22@gmail.com instead of using the issue tracker.
 
 ## Credits
 
